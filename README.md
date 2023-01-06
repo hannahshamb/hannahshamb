@@ -10,7 +10,7 @@
 </div>
 
 
-- 📚 Stack - React, Node.js, Express, JavaScript ES6, HTML5, CSS3
+- 📚 Stack - React, Node.js, PostgreSQL, Express, JavaScript ES6, HTML5, CSS3
 - 🛠 Tools - Bootstrap, Babel, Webpack, Docker, Dokku, Git, GitHub, VS Code, npm, PostgreSQL, JSON, Figma, DBDesigner, Agile Methodology, EsLint, Photoshop, Slack, Teams
 - 🔎 Seeking - Open to anything! 
 
