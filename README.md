@@ -1,5 +1,7 @@
 ## Hello World! 👋🏻🌎
-![HEngelhardt GitHub Banner](https://user-images.githubusercontent.com/90408240/204367535-a5d4aef8-44c8-4eda-9c51-60b1a58d1685.png)
+![HEngelhardt GitHub Banner (1)](https://github.com/hannahnengel/hannahnengel/assets/90408240/27c10bbf-0569-4806-9d8d-6d220d1dbfc8)
+
+
 <div align="center">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=hannahnengel&hide=stars,contribs&show_icons=true&theme=cobalt"></img>
