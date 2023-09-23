@@ -35,5 +35,5 @@ As a developer, I plan to continue to use my breadth of experience and skills to
 ## 📄 My Articles
 - [How I went from an opera singing, French speaking, product marketing manager to a full stack web developer](https://www.linkedin.com/pulse/how-i-went-from-opera-singing-french-speaking-product-engelhardt/)
 
-## 📫 Let's Connect 
+## 📫 Let's Connect!
 [<img src="https://user-images.githubusercontent.com/90408240/204418120-5ba6a30c-dd0a-464c-8d60-427bb725377a.svg" width="40" height="40">](https://www.linkedin.com/in/hannahnengel/) [<img src="https://user-images.githubusercontent.com/90408240/204418407-a70b49e4-62ee-4d0c-a50e-c12550e1966a.svg" width="40" height="40">](https://github.com/hannahnengel)
