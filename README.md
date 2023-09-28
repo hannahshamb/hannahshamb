@@ -21,7 +21,7 @@ Hi! I am a full stack software developer that works in JavaScript, HTML, and CSS
 
 From startups to non-profits and medium sized corporations, no matter the role or industry, I bring to the table initiative, adaptability, creativity, problem solving intuition and unique customer relation skills, which translate directly to increased company revenues.
 
-As a developer, I plan to continue to use my breadth of experience and skills to learn new tools and continuously grow in any team that I am on. 
+With 6 years of experience in product management, I offer a unique UX perspective combined with a drive to tackle complex challenges, collaborate, and learn continuously, making me a valuable asset to any team.
 
 #### French & International Business Double Major / Music Minor → Product Manager → Web Development 
 👆🏻 Ask me about how I got here! 👆🏻
