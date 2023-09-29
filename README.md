@@ -17,7 +17,7 @@
 
 
 ## 💬 About Me
-Hi! I am a full stack software developer that works in JavaScript, HTML, and CSS with a passion for languages, solving puzzles, and collaborating with others to achieve common goals. 
+Hi! I am a passionate full-stack developer who, alongside a full time job, committed 20 hours weekly to master React, Node.js, and PostgreSQL under senior developers at LearningFuze. 
 
 From startups to non-profits and medium sized corporations, no matter the role or industry, I bring to the table initiative, adaptability, creativity, problem solving intuition and unique customer relation skills, which translate directly to increased company revenues.
 
