@@ -19,9 +19,10 @@
 ## 💬 About Me
 Hi! I am a passionate full-stack developer who, alongside a full time job, committed 20 hours weekly to master React, Node.js, and PostgreSQL under senior developers at LearningFuze. 
 
+With 6 years of experience in product management, I offer a unique UX perspective combined with a drive to tackle complex challenges, collaborate, and learn continuously, making me a valuable asset to any team.
+
 From startups to non-profits and medium sized corporations, no matter the role or industry, I bring to the table initiative, adaptability, creativity, problem solving intuition and unique customer relation skills, which translate directly to increased company revenues.
 
-With 6 years of experience in product management, I offer a unique UX perspective combined with a drive to tackle complex challenges, collaborate, and learn continuously, making me a valuable asset to any team.
 
 #### French & International Business Double Major / Music Minor → Product Manager → Web Development 
 👆🏻 Ask me about how I got here! 👆🏻
